@@ -1,7 +1,8 @@
-#### OCR-Python
-
+## OCR-Python
+---
 Result:
 
+```
 2O ooo LEAGUEs UNDER THE sEA
 chok ng but he manage to sH ut He1p
 He1p
@@ -25,3 +26,5 @@ ha seppeared and w th t the u onun
 sa1 or
 Meanwh 1e we were attack ng ehe rest
 2o6 Cap n Nemo Attacks he squ d
+```
+---
